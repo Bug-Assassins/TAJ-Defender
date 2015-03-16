@@ -19,7 +19,8 @@ Features
 Future Work
 -----------
 
-Implement other restrictions on execution time and other resource allocation.
+1. Implement other restrictions on execution time and other resource allocation.
+2. Add support for Docker
 
 Documentation
 -------------
